@@ -1,0 +1,57 @@
+ body {
+    font-family: 'Times New Roman';
+    align-items: center;
+ }
+ .body {
+     margin-left: 30px;
+ }
+
+ #name {
+     font-family: 'Times New Roman';
+     display: inline-block;
+     align-content: center;
+ }
+
+ .infoBlock {
+    font-family: 'Times New Roman';
+    display: block;
+    margin-bottom: 10px
+ }
+
+ .infoBlockInfo {
+    font-family: 'Times New Roman';
+    display: block;
+    margin-left: 10px;
+    margin-top: 10px
+ }
+
+ .heading {
+    margin-left: 40px
+ }
+
+ a {
+     text-decoration:  none;
+     color: rgb(37, 34, 180)
+ }
+
+ a:hover {
+     color: rgb(93, 91, 238)
+ }
+
+ h4 {
+     margin-bottom: 5px;
+     color: rgba(17, 17, 17, 0.87)
+ }
+
+ h5 {
+     margin-top: 0;
+     margin-bottom: 10;
+     color: rgb(85, 83, 83);
+     text-decoration: none;
+ }
+
+ ul {
+     margin-top: 0;
+     margin-bottom: 0;
+    font-size: 15px
+ }
